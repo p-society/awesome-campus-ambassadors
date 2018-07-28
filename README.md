@@ -34,9 +34,10 @@ Carefully curated list of various organizations (working in the domain of comput
 - [Jet Brains Campus Ambassador](https://www.jetbrains.com/education/programs/)
 - [GeeksforGeeks Campus Ambassador](https://www.geeksforgeeks.org/campus-ambassador-program-by-geeksforgeeks/)
 - [She++ Campus Ambassador](http://www.sheplusplus.com/ambassadors/)
+- [Product Hunt Campus Ambassador](https://ambassador.producthunt.com/)
 
 ## Contributing
-PRs are welcome, just make sure that the cmapus ambassador program is offered by an organization working in the domain of computer science.
+PRs are welcome, just make sure that the campus ambassador program is offered by an organization working in the domain of computer science.
 
 The detailed guide to contributing is given in [CONTRIBUTING.md](https://github.com/palash25/awesome-campus-ambassadors/blob/master/CONTRIBUTING.md)
 
